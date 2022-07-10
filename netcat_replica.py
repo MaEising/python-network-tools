@@ -105,7 +105,7 @@ class NetCat:
 
 
 
-# write a commandline helping function
+# commandline helping function
 def execute(cmd):
     cmd = cmd.strip()
     if not cmd:
